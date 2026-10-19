@@ -1,0 +1,2 @@
+Hello ${NAME}. Your ${ITEM} is ready; ${NAME} appears more than once.
+Literal syntax: $${NAME}; literal dollar then reference: $$${ITEM}.
